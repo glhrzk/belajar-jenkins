@@ -17,7 +17,6 @@ Catatan pribadi yang akan digunakan untuk kedepannya.
  Jenkins adalah automation server yang opensource, yang dibuat dari bahasa JAVA.
 
 - Jenkins Data
-
 Jenkins tidak membutuhkan database untuk menyimpan seluruh konfigurasi dan datanya.
 jenkins akan secara otomatis membuat folder .jenkins di ~/ (home) directory system operasi kita.
 
